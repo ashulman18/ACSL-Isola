@@ -9,3 +9,5 @@ in the path moved. Once a tile is removed it too becomes a boundary and cannot b
 The object of the game is to be the last player to be able to make a move.
 
 2014-2015 Contest 3. For more information visit ascl.org
+
+To run this code use `javac Isola.java` then `java Isola`
